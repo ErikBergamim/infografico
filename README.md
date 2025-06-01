@@ -1,16 +1,27 @@
-# GitHub Pages
+Infográfico interativo, feito com html e chart.js que mostra estatísticas reais sobre vazamento de dados no Brasil, tema relacionado a Cybersegurança.
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+	O gráfico de linha mostra o enorme salto em vazamento de dados que ocorreu nos últimos anos, com destaque em especial, para os vazamentos governamentais.
 
-Hey @ErikBergamim!
+	O gráfico de barras mostra a taxa de crescimento anual em vazamento de dados, em especial para o crescimento de 341% em 2024.
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+	O gráfico de pizza detalha quais foram os principais setores afetados pelos vazamentos
 
-Remember, it's self-paced so feel free to take a break! ☕️
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/ErikBergamim/infografico/issues/1)
+PRINCIPAIS FONTES UTILIZADAS PARA CRIAÇÃO DO GRÁFICO:
 
----
+Fontes Governamentais:
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+CTIR Gov (Site Oficial): https://www.gov.br/ctir/pt-br
+Estatísticas Oficiais: https://www.gov.br/ctir/pt-br/assuntos/ctir-gov-em-numeros
+Atualização Governamental: https://www.gov.br/gsi/pt-br/ssic/noticias/atualizacao-do-ctir-201cem-numeros201d
 
+Relatórios de Empresas de Segurança:
+
+ESET Security Report: https://www.welivesecurity.com/pt/privacidade/os-vazamentos-de-dados-em-2024-ja-ultrapassam-a-marca-de-bilhoes/
+NordVPN Research: https://nordvpn.com/pt/blog/previsao-das-maiores-ameacas-a-ciberseguranca-em-2024/
+
+Veículos Especializados:
+
+Security Leaders: https://securityleaders.com.br/governo-federal-registra-recorde-de-vazamentos-de-dados-em-2024/
+IT Forum: https://itforum.com.br/noticias/governo-federal-recorde-vazamentos-de-dados-em-2024/
+Convergência Digital: https://convergenciadigital.com.br/governo/vazamentos-de-dados-de-governo-disparam-506-em-oito-meses/
